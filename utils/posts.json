@@ -1,0 +1,68 @@
+[
+    {
+       "Id": 1,
+       "thumbnail": "/messi.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Messi dan keluarga merayakan ulang tahunnya di Barcelona",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-2.png",
+       "authorName": "Rani",
+       "authorJob": "Editor"
+    },
+    {
+       "Id": 2,
+       "thumbnail": "/lukaku.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Lukaku menggeluh dengan taktik Tuchel karena tidak sesuai dengan permaiannya",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-3.png",
+       "authorName": "Felix",
+       "authorJob": "Desainer"
+    },
+    {
+       "Id": 3,
+       "thumbnail": "/neymar.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Isu semakin kencang Neymar kemungkinan besar hengkang dari PSG",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-4.png",
+       "authorName": "Irwan",
+       "authorJob": "Penulis"
+    },
+    {
+       "Id": 4,
+       "thumbnail": "/silva.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Barcelona mengincar Bernardo Silva apabila FDJ ke MU",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-3.png",
+       "authorName": "Reno",
+       "authorJob": "Kreator"
+    },
+    {
+       "Id": 5,
+       "thumbnail": "/barca.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Barcelona mendapatkan dana besar setelah menjual beberapa aset",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-2.png",
+       "authorName": "Zidan",
+       "authorJob": "Penulis"
+    },
+    {
+       "Id": 6,
+       "thumbnail": "/perez.png",
+       "category": "News",
+       "date": "29 Juni 2022",
+       "title": "Florentino Perez kecewa dengan Mbappe karna milih PSG",
+       "shortDescription": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+       "authorAvatar": "/author-4.png",
+       "authorName": "Doddy",
+       "authorJob": "Konten Kreator"
+    }
+ ]
